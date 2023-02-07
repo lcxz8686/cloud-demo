@@ -1,0 +1,5 @@
+cn\itcast\feign\config\DefaultFeignConfiguration.class
+cn\itcast\feign\clients\fallback\UserClientFallbackFactory$1.class
+cn\itcast\feign\clients\UserClient.class
+cn\itcast\feign\pojo\User.class
+cn\itcast\feign\clients\fallback\UserClientFallbackFactory.class

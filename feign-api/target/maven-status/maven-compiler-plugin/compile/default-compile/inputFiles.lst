@@ -1,0 +1,4 @@
+D:\项目Coding\SpringCloud\cloud-demo\feign-api\src\main\java\cn\itcast\feign\clients\UserClient.java
+D:\项目Coding\SpringCloud\cloud-demo\feign-api\src\main\java\cn\itcast\feign\clients\fallback\UserClientFallbackFactory.java
+D:\项目Coding\SpringCloud\cloud-demo\feign-api\src\main\java\cn\itcast\feign\config\DefaultFeignConfiguration.java
+D:\项目Coding\SpringCloud\cloud-demo\feign-api\src\main\java\cn\itcast\feign\pojo\User.java
